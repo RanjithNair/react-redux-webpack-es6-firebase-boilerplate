@@ -19,7 +19,7 @@ React + Redux + React Router + Firebase + Webpack + Node.js
 
 
 ## Tech Stack <a name="tech-stack"></a>
-![alt text](http://i.imgur.com/hYzMgK3.jpg "Tech Stack")
+![alt text](http://i.imgur.com/hYzMgK3l.jpg "Tech Stack")
 
 - React
   - [X] React
